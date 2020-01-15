@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Data Science Chemistry
 
 title: Carly Wolfbrandt # your name (or website title) here
-logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
+logo: "/images/headshot.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist
   <br>
