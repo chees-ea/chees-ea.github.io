@@ -2,7 +2,7 @@
 
 ---
 
-[Deep learning for organic chemistry](https://cwolfbrandt.github.io/csk/)
+[Deep Learning for Organic Chemistry](https://cwolfbrandt.github.io/csk/)
 
 *Trained a model to predict *
 
@@ -14,3 +14,9 @@
 <img src="images/rideshare.png?raw=true"/>
 
 ---
+
+## Patents
+
+**Patent Pending**
+
+A method for identifying a channel mapping from a data signal associated with a hydraulic fracturing well 
