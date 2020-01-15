@@ -12,6 +12,11 @@
 *Trained a model for predicting user retention of a ride-share service and provided recommendation for improving user retention*
 
 ---
+[Modeling Diamond Prices](https://cwolfbrandt.github.io/diamond_dataset/)
+
+*Built a model and executable script that will predict prices of diamonds, given an input file with diamond features*
+
+---
 
 ## Patents
 
