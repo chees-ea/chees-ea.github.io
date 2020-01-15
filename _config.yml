@@ -1,2 +1,18 @@
 theme: jekyll-theme-minimal
 title: Data Science Chemistry
+
+title: Carly Wolfbrandt # your name (or website title) here
+logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Scientist
+  <br>
+  Computational Chemist
+  <br>
+  Mechanical Keyboard Enthusiast
+  <br>
+  <br>
+  To get in touch, please reach out via LinkedIn.
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/carly-wolfbrandt/">View My LinkedIn Profile</a>
+theme: jekyll-theme-minimal
