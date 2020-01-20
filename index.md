@@ -1,7 +1,6 @@
-## Projects
+# Projects
 
-Original projects with associated README files and linked repositories
-
+## Original projects with associated README files and linked repositories
 ---
 
 [Deep Learning for Organic Chemistry](https://cwolfbrandt.github.io/csk/)
@@ -21,9 +20,9 @@ Original projects with associated README files and linked repositories
 ---
 
 
-## Presentations
+# Presentations
 
-Original external presentations with linked PDF files where available
+## Original external presentations with linked PDF files where available
 
 ---
 
@@ -40,9 +39,9 @@ Harnessing the Interpretability of Decision Trees for Completions Data Channel C
 ---
 
 
-## Publications
+# Publications
 
-All original papers published and linked
+## All original papers published and linked
 
 ---
 
@@ -58,9 +57,9 @@ All original papers published and linked
 
 ---
 
-## Patents
+# Patents
 
-All original provisional and non-provisional patents
+## All original provisional and non-provisional patents
 
 ---
 
