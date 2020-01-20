@@ -36,6 +36,4 @@ Harnessing the Interpretability of Decision Trees for Completions Data Channel C
 
 ## Patents
 
-**Patent Pending**
-
-A method for identifying a channel mapping from a data signal associated with a hydraulic fracturing well 
+A method for identifying a channel mapping from a data signal associated with a hydraulic fracturing well - *Patent Pending*
