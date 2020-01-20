@@ -18,7 +18,7 @@
 
 ## Publications
 
-### All original papers published and linked
+### Original papers published and linked
 
 [Modeling of canonical and C2′-O-thiophenylmethyl modified hexamers of RNA. Insights into the nature of structural changes and thermal stability](https://pubs.rsc.org/en/content/articlelanding/2018/nj/c8nj01739e#!divAbstract) - May 10, 2018, New Journal of Chemistry
 
@@ -42,6 +42,6 @@ Harnessing the Interpretability of Decision Trees for Completions Data Channel C
 
 ## Patents
 
-### All original provisional and non-provisional patents
+### Original provisional and non-provisional patents
 
 A method for identifying a channel mapping from a data signal associated with a hydraulic fracturing well - *Patent Pending*
