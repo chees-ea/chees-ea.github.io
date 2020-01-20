@@ -16,18 +16,6 @@
 
 ---
 
-## Presentations
-
-### Original external presentations with linked PDF files where available
-
-Deep Learning for Organic Chemistry: Utilizing Deep Learning Techniques to Identify Chemical Structures - Galvanize Capstone Showcase, August 1 2019
-
-How Data Science and Machine Learning can Improve Operational Efficiencies and Increase ROI - *Planned* January 2020
-
-Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification - Denver Data Science Professionals, *Planned* March 3 2020
-
----
-
 ## Publications
 
 ### All original papers published and linked
@@ -37,6 +25,18 @@ Harnessing the Interpretability of Decision Trees for Completions Data Channel C
 [Modeling of Large Systems and Charge Transfer Reaction Mechanisms Utilizing Electronic Structure Theory](http://digital.auraria.edu/AA00006543/00001) - May 2017, ProQuest
 
 [Synthesis, Thermal Stability, Biophysical Properties, and Molecular Modeling of Oligonucleotides of RNA Containing 2’-O-2-Thiophenylmethyl Groups](https://pubs.acs.org/doi/abs/10.1021/acs.joc.6b01615) - Sep 1 2016, ACS Journal of Organic Chemistry
+
+---
+
+## Presentations
+
+### Original external presentations with linked PDF files where available
+
+Deep Learning for Organic Chemistry: Utilizing Deep Learning Techniques to Identify Chemical Structures - Galvanize Capstone Showcase, August 1 2019
+
+How Data Science and Machine Learning can Improve Operational Efficiencies and Increase ROI - *Planned* January 2020
+
+Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification - Denver Data Science Professionals, *Planned* March 3 2020
 
 ---
 
