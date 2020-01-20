@@ -21,9 +21,9 @@
 
 ## Presentations
 
-*How Data Science and Machine Learning can Improve Operational Efficiencies and Increase ROI*
+How Data Science and Machine Learning can Improve Operational Efficiencies and Increase ROI - January 2020
 
-*Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification*
+Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification - *Planned* March 2020
 
 ---
 
