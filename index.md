@@ -1,7 +1,5 @@
 ## Projects
 
-### Original projects with associated README files and linked repositories
-
 [Deep Learning for Organic Chemistry](https://cwolfbrandt.github.io/csk/)
 
 *Trained a model to correctly classify images of chemical structures*
@@ -18,8 +16,6 @@
 
 ## Publications
 
-### Original papers published and linked
-
 [Modeling of canonical and C2′-O-thiophenylmethyl modified hexamers of RNA. Insights into the nature of structural changes and thermal stability](https://pubs.rsc.org/en/content/articlelanding/2018/nj/c8nj01739e#!divAbstract) - May 10, 2018, New Journal of Chemistry
 
 [Modeling of Large Systems and Charge Transfer Reaction Mechanisms Utilizing Electronic Structure Theory](http://digital.auraria.edu/AA00006543/00001) - May 2017, ProQuest
@@ -29,8 +25,6 @@
 ---
 
 ## Presentations
-
-### Original external presentations with linked PDF files where available
 
 Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification - Denver Data Science Professionals, *Planned* March 3 2020
 
@@ -43,7 +37,5 @@ Quantum dynamics in photoexcitation reactions of photoremovable protecting group
 ---
 
 ## Patents
-
-### Original provisional and non-provisional patents
 
 A method for identifying a channel mapping from a data signal associated with a hydraulic fracturing well - *Patent Pending*
