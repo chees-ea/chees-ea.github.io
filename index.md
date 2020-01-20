@@ -32,11 +32,13 @@
 
 ### Original external presentations with linked PDF files where available
 
+Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification - Denver Data Science Professionals, *Planned* March 3 2020
+
+How Data Science and Machine Learning can Improve Operational Efficiencies and Increase ROI - *Planned* January 29 2020
+
 Deep Learning for Organic Chemistry: Utilizing Deep Learning Techniques to Identify Chemical Structures - Galvanize Capstone Showcase, August 1 2019
 
-How Data Science and Machine Learning can Improve Operational Efficiencies and Increase ROI - *Planned* January 2020
-
-Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification - Denver Data Science Professionals, *Planned* March 3 2020
+Quantum dynamics in photoexcitation reactions of photoremovable protecting groups - Research and Creative Activities Symposium, Apr 29 2016
 
 ---
 
