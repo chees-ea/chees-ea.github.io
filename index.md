@@ -18,6 +18,22 @@
 
 ---
 
+
+## Presentations
+
+*How Data Science and Machine Learning can Improve Operational Efficiencies and Increase ROI*
+
+*Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification*
+
+---
+
+
+## Papers
+
+*In Progress*
+
+---
+
 ## Patents
 
 **Patent Pending**
