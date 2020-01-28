@@ -26,9 +26,11 @@
 
 ## Presentations
 
-**Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification** - Denver Data Science Professionals, *Planned* March 3 2020
+**Applications and Challenges of Algorithm Development for Real-Time Machine Learning** - Denver Data Science Professionals, *Planned* March 3 2020
 
-**How Data Science and Machine Learning Can Improve Operational Efficiencies and Increase ROI** - Well Data Labs, *Planned* January 29 2020
+**A Practical and Interpretable Application of Ensemble Machine Learning Methods for Near Real-Time Data Channel Classification** - Well Data Labs, *Planned* Feb 3 2020
+
+**How Data Science and Machine Learning Can Improve Operational Efficiencies and Increase ROI** - Well Data Labs, January 29 2020
 
 **Deep Learning for Organic Chemistry: Utilizing Deep Learning Techniques to Identify Chemical Structures** - Galvanize Capstone Showcase, August 1 2019
 
