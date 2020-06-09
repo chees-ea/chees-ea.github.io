@@ -39,6 +39,8 @@ Mountain Association of Geologists Data Science Symposium, *planned* August 2020
 
 **Deep Learning for Organic Chemistry: Utilizing Deep Learning Techniques to Identify Chemical Structures** - Galvanize Data Science Showcase, August 1 2019
 
+**Modeling of Large Systems and Charge Transfer Reaction Mechanisms Utilizing Electronic Structure Theory** - University of Colorado, April 12 2017
+
 **Quantum Dynamics in Photoexcitation Reactions of Photoremovable Protecting Groups** - Research and Creative Activities Symposium, Apr 29 2016
 
 ---
