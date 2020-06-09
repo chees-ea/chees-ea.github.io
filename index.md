@@ -26,9 +26,14 @@
 
 ## Presentations
 
-**Applications and Challenges of Algorithm Development for Real-Time Machine Learning** - Denver Data Science Professionals, *Planned* March 3 2020
+**Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification** - Rocky 
+Mountain Association of Geologists Data Science Symposium, *planned* August 2020
 
-**A Practical and Interpretable Application of Ensemble Machine Learning Methods for Near Real-Time Data Channel Classification** - Well Data Labs, *Planned* Feb 3 2020
+**Webinar: Data Science Case Studies and Hands-On Learning to Gain Operational Efficiencies** - Webinar, June 11 2020
+
+**Applications and Challenges of Algorithm Development for Real-Time Machine Learning** - Denver Data Science Professionals, March 3 2020
+
+**A Practical and Interpretable Application of Ensemble Machine Learning Methods for Near Real-Time Data Channel Classification** - Well Data Labs, Feb 3 2020
 
 **How Data Science and Machine Learning Can Improve Operational Efficiencies and Increase ROI** - Well Data Labs, January 29 2020
 
