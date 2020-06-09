@@ -29,7 +29,7 @@
 **Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification** - Rocky 
 Mountain Association of Geologists Data Science Symposium, *planned* August 2020
 
-**Webinar: Data Science Case Studies and Hands-On Learning to Gain Operational Efficiencies** - Webinar, June 11 2020
+**Data Science Case Studies and Hands-On Learning to Gain Operational Efficiencies** - Webinar, June 11 2020
 
 **Applications and Challenges of Algorithm Development for Real-Time Machine Learning** - Denver Data Science Professionals, March 3 2020
 
