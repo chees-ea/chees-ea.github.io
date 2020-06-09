@@ -37,7 +37,7 @@ Mountain Association of Geologists Data Science Symposium, *planned* August 2020
 
 **How Data Science and Machine Learning Can Improve Operational Efficiencies and Increase ROI** - Well Data Labs, January 29 2020
 
-**Deep Learning for Organic Chemistry: Utilizing Deep Learning Techniques to Identify Chemical Structures** - Galvanize Capstone Showcase, August 1 2019
+**Deep Learning for Organic Chemistry: Utilizing Deep Learning Techniques to Identify Chemical Structures** - Galvanize Data Science Showcase, August 1 2019
 
 **Quantum Dynamics in Photoexcitation Reactions of Photoremovable Protecting Groups** - Research and Creative Activities Symposium, Apr 29 2016
 
