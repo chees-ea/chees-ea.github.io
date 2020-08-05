@@ -27,6 +27,7 @@ Identifying Casing Failures with Signature Fracturing Treatment Pressure Behavio
 ---
 
 ## Presentations
+
 **Anomalous Pressure Identification: Automating Mechanical Failure Detection** - Power-Up 2020, July 9 2020
 
 **Data Science Case Studies and Hands-On Learning to Gain Operational Efficiencies** - Well Data Labs Webinar, June 11 2020
@@ -48,4 +49,5 @@ Identifying Casing Failures with Signature Fracturing Treatment Pressure Behavio
 ## Patents
 
 Real-Time Analysis of In-Field Collected Well Fracturing Data - *Patent Pending*
+
 A method for identifying a channel mapping from a data signal associated with a hydraulic fracturing well - *Patent Pending*
