@@ -50,4 +50,5 @@ Identifying Casing Failures with Signature Fracturing Treatment Pressure Behavio
 
 Real-Time Analysis of In-Field Collected Well Fracturing Data - *Patent Pending*
 
-A method for identifying a channel mapping from a data signal associated with a hydraulic fracturing well - *Patent Pending*
+A Method for Identifying a Channel Mapping from a Data Signal Associated with a Hydraulic Fracturing Well - *Patent Pending*
+h
