@@ -16,6 +16,8 @@
 
 ## Publications
 
+Identifying Casing Failures with Signature Fracturing Treatment Pressure Behavior - Society of Petroleum Engineers Annual Technical Conference and Exhibition, SPE 201484 
+
 [Modeling of canonical and C2′-O-thiophenylmethyl modified hexamers of RNA. Insights into the nature of structural changes and thermal stability](https://pubs.rsc.org/en/content/articlelanding/2018/nj/c8nj01739e#!divAbstract) - May 10, 2018, New Journal of Chemistry
 
 [Modeling of Large Systems and Charge Transfer Reaction Mechanisms Utilizing Electronic Structure Theory](http://digital.auraria.edu/AA00006543/00001) - May 2017, ProQuest
@@ -25,11 +27,9 @@
 ---
 
 ## Presentations
+**Anomalous Pressure Identification: Automating Mechanical Failure Detection** - Power-Up 2020, July 9 2020
 
-**Harnessing the Interpretability of Decision Trees for Completions Data Channel Classification** - Rocky 
-Mountain Association of Geologists Data Science Symposium, *planned* August 2020
-
-**Data Science Case Studies and Hands-On Learning to Gain Operational Efficiencies** - Webinar, June 11 2020
+**Data Science Case Studies and Hands-On Learning to Gain Operational Efficiencies** - Well Data Labs Webinar, June 11 2020
 
 **Applications and Challenges of Algorithm Development for Real-Time Machine Learning** - Denver Data Science Professionals, March 3 2020
 
@@ -47,4 +47,5 @@ Mountain Association of Geologists Data Science Symposium, *planned* August 2020
 
 ## Patents
 
+Real-Time Analysis of In-Field Collected Well Fracturing Data - *Patent Pending*
 A method for identifying a channel mapping from a data signal associated with a hydraulic fracturing well - *Patent Pending*
