@@ -16,13 +16,13 @@
 
 ## Publications
 
-Identifying Casing Failures with Signature Fracturing Treatment Pressure Behavior - Society of Petroleum Engineers Annual Technical Conference and Exhibition, SPE 201484 
+Identifying Casing Failures with Signature Fracturing Treatment Pressure Behavior - October 2020, Society of Petroleum Engineers Annual Technical Conference and Exhibition
 
-[Modeling of canonical and C2′-O-thiophenylmethyl modified hexamers of RNA. Insights into the nature of structural changes and thermal stability](https://pubs.rsc.org/en/content/articlelanding/2018/nj/c8nj01739e#!divAbstract) - May 10, 2018, New Journal of Chemistry
+[Modeling of canonical and C2′-O-thiophenylmethyl modified hexamers of RNA. Insights into the nature of structural changes and thermal stability](https://pubs.rsc.org/en/content/articlelanding/2018/nj/c8nj01739e#!divAbstract) - May 2018, New Journal of Chemistry
 
 [Modeling of Large Systems and Charge Transfer Reaction Mechanisms Utilizing Electronic Structure Theory](http://digital.auraria.edu/AA00006543/00001) - May 2017, ProQuest
 
-[Synthesis, Thermal Stability, Biophysical Properties, and Molecular Modeling of Oligonucleotides of RNA Containing 2’-O-2-Thiophenylmethyl Groups](https://pubs.acs.org/doi/abs/10.1021/acs.joc.6b01615) - Sep 1 2016, ACS Journal of Organic Chemistry
+[Synthesis, Thermal Stability, Biophysical Properties, and Molecular Modeling of Oligonucleotides of RNA Containing 2’-O-2-Thiophenylmethyl Groups](https://pubs.acs.org/doi/abs/10.1021/acs.joc.6b01615) - Sep 2016, ACS Journal of Organic Chemistry
 
 ---
 
