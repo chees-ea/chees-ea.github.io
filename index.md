@@ -2,15 +2,15 @@
 
 [Deep Learning for Organic Chemistry](https://cwolfbrandt.github.io/csk/)
 
-*Trained a model to correctly classify images of chemical structures*
+*A model trained to extract features (shapes, stereochemistry, spectral data) from custom GAN generated images of chemical structures, linked to a recurrent neural network to generate SMILES outputs. Model can predict information about both handwritten and computer-generated data.*
 
 [Predicting User Churn](https://cwolfbrandt.github.io/predicting_churn/)
 
-*Trained a model for predicting user retention of a ride-share service and provided recommendation for improving user retention*
+*Predicting user churn of a ride-share service and recommendations for improving user retention*
 
 [Modeling Diamond Prices](https://cwolfbrandt.github.io/diamond_dataset/)
 
-*Built a model and executable script that will predict prices of diamonds, given an input file with diamond features*
+*Predict prices of diamonds, given an input file with diamond features*
 
 ---
 
