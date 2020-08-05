@@ -6,11 +6,11 @@
 
 [Predicting User Churn](https://cwolfbrandt.github.io/predicting_churn/)
 
-*Predicting user churn of a ride-share service and recommendations for improving user retention*
+*Predicting user churn of a ride-share service and recommendations for improving user retention.*
 
 [Modeling Diamond Prices](https://cwolfbrandt.github.io/diamond_dataset/)
 
-*Predict prices of diamonds, given an input file with diamond features*
+*Predict prices of diamonds, given an input file with diamond features.*
 
 ---
 
