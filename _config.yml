@@ -4,7 +4,5 @@ logo: "/images/headshot.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist | Computational Chemist
   <br>
-  To get in touch, please reach out via LinkedIn.
-  <br>
-  <a href="https://www.linkedin.com/in/carly-taylor0017/">View My LinkedIn Profile</a>
+  To get in touch, please reach out via <a href="https://www.linkedin.com/in/carly-taylor0017/">LinkedIn</a>
 theme: jekyll-theme-minimal
