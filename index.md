@@ -1,4 +1,4 @@
-## Projects
+## Selected Projects
 
 [Deep Learning for Organic Chemistry](https://cwolfbrandt.github.io/csk/)
 
@@ -11,26 +11,6 @@
 [Modeling Diamond Prices](https://cwolfbrandt.github.io/diamond_dataset/)
 
 *Predict prices of diamonds, given an input file with diamond features.*
-
----
-
-## Presentations
-
-**Anomalous Pressure Identification: Automating Mechanical Failure Detection** - Power-Up 2020, July 9 2020
-
-**Data Science Case Studies and Hands-On Learning to Gain Operational Efficiencies** - Well Data Labs Webinar, June 11 2020
-
-**Applications and Challenges of Algorithm Development for Real-Time Machine Learning** - Denver Data Science Professionals, March 3 2020
-
-**A Practical and Interpretable Application of Ensemble Machine Learning Methods for Near Real-Time Data Channel Classification** - Well Data Labs, Feb 3 2020
-
-**How Data Science and Machine Learning Can Improve Operational Efficiencies and Increase ROI** - Well Data Labs, January 29 2020
-
-**Deep Learning for Organic Chemistry: Utilizing Deep Learning Techniques to Identify Chemical Structures** - Galvanize Data Science Showcase, August 1 2019
-
-**Modeling of Large Systems and Charge Transfer Reaction Mechanisms Utilizing Electronic Structure Theory** - University of Colorado, April 12 2017
-
-**Quantum Dynamics in Photoexcitation Reactions of Photoremovable Protecting Groups** - Research and Creative Activities Symposium, Apr 29 2016
 
 ---
 
